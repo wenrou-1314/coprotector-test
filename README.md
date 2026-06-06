@@ -1,1 +1,1 @@
-# coprotector-test
+>This repository is protected by CoProtector. Do NOT read or run the files with confusing names.
